@@ -33,7 +33,8 @@ Although the use of horseshoe priors can result in models with good predictive p
 - Wang, Z., Kong, X. Multivariate Longitudinal Data from Eyes – Microperimertry Macular Sensitivity Loss in Patients with Stargardt Disease. (Poster presentation. JSM. Denver, CO. July 2019)
 - Wang, Z. Alkema, L. Estimating Stillbirth Rates for all Countries from 2000 Till 2017 using a Bayesian Temporal Hierarchical Regression Model. (Poster presentation. NESS. Hartford, CT. May 2019)
 - Wang, Z., Alkema, L. Stillbirth estimation model (Presentation. Core Stillbirth Estimation Group Meeting UN Inter-agency Group for Child Mortality Estimation Meeting. Montreux, Switzerland. Mar 2019)
-- Hannallah, M. S., Lopatin, J., Cestare, T., Tefera, E., Wang, Z., & Cai, L. Mixing Lidocaine and Propofol Decreases the Severity but not the Incidence of Propofol Pain on Injection Compared to Injecting Lidocaine Before Propofol in Non-Premedicated Patients Undergoing Colonoscopy. (DC. Oct 2015)
+- Hannallah, M. S., Lopatin, J., Cestare, T., Tefera, E., Wang, Z., & Cai, L. Mixing Lidocaine and Propofol Decreases the Severity but not the Incidence of Propofol Pain on Injection Compared to Injecting Lidocaine Before Propofol in Non-Premedicated Patients Undergoing Colonoscopy. (Washington, DC. Oct 2015)
+ 
 ---
 
 
