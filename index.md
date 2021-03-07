@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Research 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate](/sample_page)
+<img src="/fig/worldmap.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
