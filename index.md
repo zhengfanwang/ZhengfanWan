@@ -22,7 +22,7 @@ Although the use of horseshoe priors can result in models with good predictive p
 <p style="font-size:12px">Multi-stage clinical trial allows the trial to stop early for pronounced treatment effect or the lack of it thereof based on data accumulated at the intermediate stage. The sequential conditional probability ratio test (SCPRT) approach is derived based on the concept of discordance probability, namely, the probability that the decision to accept or reject the null hypothesis based on interim data would reverse should the trial continue to the planned end. However, in the existing SCPRTs, the discordance probability, type I error and power are not easy to compute. Here we investigate a simulation based method to compute these quantities and apply them to a real data problem as an illustration.</p>
 
 ---
-### Research interest
+### Research interests
 
 
 My training and research have focused on Bayesian modeling, variable selection, temporal smoothing process/stochastic processes, high dimensional longitudinal data, and clinical trial design. My current research interests include Bayesian modeling, variable selection methods, the linkage between Bayes and frequentist procedures, infectious disease data like COVID19 or HIV, stochastic processes.
