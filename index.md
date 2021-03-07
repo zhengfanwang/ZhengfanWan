@@ -22,19 +22,22 @@ Although the use of horseshoe priors can result in models with good predictive p
 
 ---
 
-### Publications
+### Publications and Presentations
 
 - Wang, Z., Fix, M. J., Hug, L., Mishra, A., You, D., Blencowe, H., ... & Alkema, L. (2020). Estimating the Stillbirth Rate for 195 Countries Using A Bayesian Sparse Regression Model with Temporal Smoothing. arXiv preprint arXiv:2010.03551.
 - Wang, Z., Yuan, A., & Tan, M. T. (2016). Computation of the Properties of Multi-Stage Clinical Trial Design Based on SCPRT. J Clin Trials, 6(274), 2167-0870.
 - Jian-Yu, E., Wang, Z., Ssekasanvu, J., Munoz, B., West, S., Ludigo, J., ... & Kong, X. (2021). Visual Impairment and Eye Diseases in HIV-infected People in the Antiretroviral Therapy (ART) Era in Rakai, Uganda. Ophthalmic Epidemiology, 28(1), 63-69.
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- Wang, Z., Stillbirth rate estimation model (Presentation. Core Stillbirth Estimation Group Meeting UN Inter-agency Group for Child Mortality Estimation Meeting. Online. Dec 2020.)
+- Wang, Z., Alkema, L. Imposing Sparseness in a Bayesian Hierarchical Regression Model with Temporal Smoothing via the Horseshoe prior with an Application to Estimate Stillbirths for All Countries. (Paper presentation. JSM. Aug. 2020)
+- Wang, Z., Estimation of stillbirth rate (Presentation. Second Core Stillbirth Estimation Group Meeting UN Inter-agency Group for Child Mortality Estimation Meeting. New York. July 2019) 
+- Wang, Z., Kong, X. Multivariate Longitudinal Data from Eyes – Microperimertry Macular Sensitivity Loss in Patients with Stargardt Disease. (Poster presentation. JSM. Denver, CO. July 2019)
+- Wang, Z. Alkema, L. Estimating Stillbirth Rates for all Countries from 2000 Till 2017 using a Bayesian Temporal Hierarchical Regression Model. (Poster presentation. NESS. Hartford, CT. May 2019)
+- Wang, Z., Alkema, L. Stillbirth estimation model (Presentation. Core Stillbirth Estimation Group Meeting UN Inter-agency Group for Child Mortality Estimation Meeting. Montreux, Switzerland. Mar 2019)
+- Hannallah, M. S., Lopatin, J., Cestare, T., Tefera, E., Wang, Z., & Cai, L. Mixing Lidocaine and Propofol Decreases the Severity but not the Incidence of Propofol Pain on Injection Compared to Injecting Lidocaine Before Propofol in Non-Premedicated Patients Undergoing Colonoscopy. (DC. Oct 2015)
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
