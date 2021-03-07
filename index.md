@@ -5,7 +5,7 @@
 ### Research 
 
 [Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate](/sample_page)
-<img src="/fig/worldmap.png?raw=true"/>
+<img src="/images/worldmap.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
