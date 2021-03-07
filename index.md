@@ -4,7 +4,7 @@
 
 ### Research 
 
-[Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate](/sample_page)
+Bayesian Hierarchical Temporal Sparse Regression Model: Estimation of Stillbirth Rate [Link](https://arxiv.org/abs/2010.03551)
 <img src="/images/worldmap.png?raw=true"/>
 
 ---
