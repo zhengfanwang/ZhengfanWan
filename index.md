@@ -22,11 +22,11 @@ Although the use of horseshoe priors can result in models with good predictive p
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- Wang, Z., Fix, M. J., Hug, L., Mishra, A., You, D., Blencowe, H., ... & Alkema, L. (2020). Estimating the Stillbirth Rate for 195 Countries Using A Bayesian Sparse Regression Model with Temporal Smoothing. arXiv preprint arXiv:2010.03551.
+- Wang, Z., Yuan, A., & Tan, M. T. (2016). Computation of the Properties of Multi-Stage Clinical Trial Design Based on SCPRT. J Clin Trials, 6(274), 2167-0870.
+- Jian-Yu, E., Wang, Z., Ssekasanvu, J., Munoz, B., West, S., Ludigo, J., ... & Kong, X. (2021). Visual Impairment and Eye Diseases in HIV-infected People in the Antiretroviral Therapy (ART) Era in Rakai, Uganda. Ophthalmic Epidemiology, 28(1), 63-69.
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
