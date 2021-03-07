@@ -1,11 +1,11 @@
-title: Zhengfan Wang # your name (or website title) here
+e'dtitle: Zhengfan Wang # your name (or website title) here
 logo: "/images/zhengfan.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Email: zhengfanwang@umass.edu
   <br><br>
   Phone: 2023741285 
   <br><br>
-  <a href="zhengfanwang.github.io/pdf/zhengfan_CV.pdf" target="_blank">View My CV</a> 
+  <embed src="zhengfanwang.github.io/pdf/zhengfan_CV.pdf" type="application/pdf">View My CV</embed> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
